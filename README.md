@@ -8,3 +8,6 @@ sudo apt install curl
 Kullanım : php automix.php
 
 site : www.site.com
+
+
+Geliştiriciler herhangi bir sorumluluk kabul etmez ve bu programın neden olduğu yanlış kullanım veya hasarlardan sorumlu değildir !
